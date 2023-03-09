@@ -1,0 +1,103 @@
+#first-contact-section {
+    background-image: url(Img/contactpage-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 45vh;
+    margin-top: -1%;
+}
+
+#contact-heading {
+    padding-top: 8%;
+    font-size: 50px;
+}
+
+#contact-heading-two {
+    font-size: 20px
+}
+
+#contact-form {
+
+    padding-top: 5%;
+    padding-left: 10%;
+
+}
+
+.contact-form-size {
+    width: 400px;
+
+}
+
+#contact-table {
+    font-size: 22px;
+    padding-top: 5%;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.red {
+    color: brown;
+}
+
+
+/* FOOTER FOR ALL PAGES */
+
+footer {
+    border-top: solid 2px rgb(77, 77, 77);
+    margin-top: 3%;
+    background-color: rgb(31, 31, 31);
+}
+
+
+
+#footer-logo {
+    width: 150px;
+}
+
+#footer-table {
+    font-size: 20px;
+    padding-top: 1%;
+    padding-left: 15%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+
+#footer-table-number {
+    padding-left: 25px;
+}
+
+#footer-button {
+    padding-left: 8%;
+}
+
+#footer-first-moto {
+    padding-left: 9%;
+}
+
+#footer-moto-pic {
+    padding-left: 28%;
+}
+
+.white {
+    color: aliceblue;
+}
+
+/* FOOTER FOR ALL PAGES */
+
+
+
+@media (max-width:1183px) {
+    .contact-form-size {
+        width: 250px;
+    }
+
+}
+
+@media (max-width:950px) {
+    .contact-form-size {
+        width: 350px;
+    }
+
+}

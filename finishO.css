@@ -1,0 +1,192 @@
+/* SECTION PICS */
+.section-pics-fin {
+    margin-bottom: 5%;
+}
+
+@media (max-width:812px) {
+    .section-pics-fin {
+        margin-bottom: 20%;
+    }
+
+}
+
+@media (max-width: 650px) {
+    .section-pics-fin {
+        margin-bottom: 15%;
+    }
+}
+
+
+@media (max-width:1220px) {
+    .section-pics-fin {
+        margin-bottom: 10%;
+    }
+
+}
+
+
+
+.finish-pic-col {
+    width: 20%;
+}
+
+.finish-pic-heading {
+    text-align: center;
+}
+
+.finish-pic-heading1 {
+    font-size: 17px;
+    color: aliceblue;
+    text-align: center;
+    width: 109%;
+    height: 120%;
+    padding-top: 200px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    margin-top: 2%;
+}
+
+@media (max-width:1220px) {
+    .finish-pic-col {
+        width: 50%;
+    }
+
+}
+
+@media (max-width:780px) {
+    .finish-pic-col {
+        width: 100%;
+    }
+
+}
+
+.fin-one {
+    background-image: url(Img/finishoptions-grind\ and\ seal1.jpg);
+    background-size: cover;
+}
+
+.fin-two {
+    background-image: url(Img/finishoptions-matteFinish2.jpg);
+    background-size: cover;
+    color: black;
+}
+
+.fin-three {
+    background-image: url(Img/finishoptions-satinFinish3.jpg);
+    background-size: cover;
+}
+
+.fin-four {
+    background-image: url(Img/finishoptions-SemiGlossFinish4.jpg);
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+.fin-five {
+    background-image: url(Img/finishoptions-glossFinish5.jpg);
+    background-size: cover;
+}
+
+/* SECTION PICS */
+
+
+/* SECTION PARA */
+
+.finish-sec-info {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+}
+
+.finish-sec-con {
+    background-color: rgb(252, 252, 252);
+    width: 120vh;
+
+}
+
+/* SECTION PARA */
+
+.sec-sec-hed {
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 12px;
+    text-align: center;
+}
+
+.fin-row-4 {
+    padding-left: 9%;
+}
+
+.fin-row-3 {
+    padding-left: 15%;
+    padding-bottom: 7%;
+}
+
+.small-pics {
+    margin-bottom: 1%;
+}
+
+/* SECTION PARA */
+
+
+
+/* SECTION PARA  2*/
+
+.fin-but {
+    padding-left: 47%;
+}
+
+
+.para-read {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+}
+
+.para-read-con {
+    background-color: white;
+    width: 120vh;
+}
+
+
+
+
+/* SECTION PARA  2 */
+
+/* SECTION PARA  3 */
+
+.fin-img-1 {
+    margin-left: 8%;
+}
+
+.fin-but-2 {
+    margin-left: 28%;
+
+}
+
+.second-read {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+}
+
+.second-read-con {
+    background-color: white;
+    width: 120vh;
+}
+
+/* SECTION PARA  3 */
+
+/* SECTION PARA  4 */
+
+.wrap-fin {
+    padding-left: 20%;
+}
+
+.fin-but-wrap {
+    margin-left: 45%;
+}
+
+
+
+/* SECTION PARA  4 */
