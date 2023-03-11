@@ -1,0 +1,131 @@
+.main-background {
+    background-image: url(Img/BACKGROUND2.jpg);
+    background-position: bottom fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    opacity: 0.5;
+}
+
+.main-background:hover {
+    opacity: 1.5;
+    transition: 2s;
+}
+
+
+nav,
+li {
+    font-size: 17px;
+    padding-left: 50px;
+    margin-top: -1%;
+    margin-bottom: -1%;
+}
+
+#navbarNavDropdown {
+    padding-left: 28%;
+}
+
+/* CARASEL PART */
+
+.carousel-section {
+    background-color: rgb(66, 66, 66);
+}
+
+.click-pic {
+    height: 550px;
+}
+
+@media (max-width:920px) {
+    .carousel-section {
+        display: none;
+    }
+}
+
+.carousel-heading {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(224, 224, 224);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 4em;
+
+}
+
+
+
+/* CARASEL PART */
+
+
+/* END OF FIRST PAGE */
+
+.passion {
+    color: brown;
+}
+
+.about-us {
+    padding-top: 5%;
+    padding-bottom: 4%;
+    border-bottom: 2px solid rgb(223, 220, 220);
+    background-color: rgb(248, 248, 248);
+}
+
+
+
+
+@media (max-width:870px) {
+    .home.logo {
+        width: 400px;
+    }
+}
+
+/*  end of first page */
+
+
+
+
+.fourimage {
+    padding-left: 50px;
+}
+
+.fourimage img:hover {
+    opacity: 0.9;
+    scale: 1.1;
+    transition: 1s;
+
+}
+
+.pic-infoone {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.father-son-move {
+    padding-left: 20%;
+}
+
+.father-son {
+
+    padding-bottom: 15px;
+    background-color: rgb(248, 248, 248);
+}
+
+@media (max-width:950px) {
+    .father-son-move {
+        margin-left: -15%;
+    }
+}
+
+#fill-out {
+    margin-top: 3%;
+    margin-left: 20%;
+
+}
+
+#fill-out,
+p {}
+
+#free-quote-header {
+    padding-left: -10%;
+    font-size: 24px
+}
