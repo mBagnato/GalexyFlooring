@@ -32,7 +32,7 @@ li {
 }
 
 .click-pic {
-    height: 550px;
+    height: 500px;
 }
 
 @media (max-width:920px) {
@@ -43,12 +43,14 @@ li {
 
 .carousel-heading {
     position: absolute;
-    top: 40%;
-    left: 50%;
+    top: 60%;
+    left: 52%;
     transform: translate(-50%, -50%);
-    color: rgb(224, 224, 224);
+    color: rgb(21, 2, 2);
     font-family: Brush Script MT, Brush Script Std, cursive;
-    font-size: 4em;
+    font-size: 50px;
+    font-weight: 500;
+    width: 700px;
 
 }
 
@@ -128,4 +130,8 @@ p {}
 #free-quote-header {
     padding-left: -10%;
     font-size: 24px
+}
+
+.back-white {
+    background-color: white;
 }

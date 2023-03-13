@@ -24,13 +24,18 @@
 
 
 .but-gloss {
-    background-color: rgb(97, 6, 6);
+    text-decoration: none;
+    background-color: rgb(158, 7, 7);
     color: white;
     border: none;
     border-radius: 10px;
-    margin-left: -10%;
+    margin-left: -5%;
     padding: 20px;
-    margin-top: 24%;
+    padding-top: 5%;
+}
+
+.but-posi {
+    margin-top: 9%;
 }
 
 @media (max-width:1200px) {
@@ -50,6 +55,7 @@
 .but-gloss:hover {
     opacity: 0.5;
     text-decoration: underline;
+    
 
 }
 
