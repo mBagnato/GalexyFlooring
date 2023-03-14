@@ -69,10 +69,16 @@ li {
 
 /* NEW SECTION */
 
-#home-grinder-pic-pos {
-    overflow: hidden;
-    width: 500px;
+.home-grinder {
+    width: 35rem;
+    margin-left: 10%;
+}
 
+@media (max-width:630px) {
+        .home.grinder {
+            width: 20rem;
+            margin-left: 0%;
+        }    
 }
 
 
@@ -117,7 +123,7 @@ li {
 /* NEW SECTION */
 
 .third-para {
-    margin-left: 9%;
+    margin-left: 18%;
 }
 
 /* NEW SECTION */

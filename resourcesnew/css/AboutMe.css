@@ -48,9 +48,10 @@ li {
     transform: translate(-50%, -50%);
     color: rgb(21, 2, 2);
     font-family: Brush Script MT, Brush Script Std, cursive;
-    font-size: 50px;
+    font-size: 55px;
     font-weight: 500;
-    width: 700px;
+    width: 800px;
+    opacity: 0.8;
 
 }
 
