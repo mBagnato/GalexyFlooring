@@ -1,0 +1,65 @@
+.pol-first-para {
+    margin-left: 13%;
+}
+
+.pol-first-con {
+    background-color: white;
+    
+}
+
+.pol-first-sec {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.advantage-heading {
+    margin-left: 10%;
+    border-radius: 5px;
+    box-shadow: 2px 2px #7f0202;
+    border: solid 1px rgb(178, 0, 0);
+    padding: 12px;
+    background-color: rgb(234, 237, 238);   
+}
+
+.sec-two-list {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.sec-two-con {
+    background-color: white;
+}
+
+.list-pos {
+    margin-left: 7%;
+}
+
+.link-but {
+        text-decoration: none;
+        border: solid 2px #7f0202;
+        border-radius: 7px;
+        box-shadow: 1px 1px black;
+        padding: 5px;
+        font-size: 15px;
+        background-color: #a80202;
+        color: white;
+        margin-right: 5%;
+        text-align: center;
+        margin-top: 3%;
+}
+
+.link-but:hover {
+    opacity: 0.6;
+    text-decoration: underline;
+}
+
+.row-posi {
+    margin-left: 25%;
+}
+
+.moto-bot {
+    font-family: cursive;
+    margin-top: 7%;
+}
