@@ -1,0 +1,53 @@
+#picShow {
+    width: 80%;
+    height: 60vh;
+    margin-left: 12%;
+    border-radius: 5%;
+    margin-top: 5%;
+}
+
+.gands-para {
+    padding-left: 16%;
+}
+
+.gands-pic-but {
+    text-decoration: none;
+    font-size: 15px;
+    border: solid 2px red;
+    border-radius: 10px;
+    padding: 10px; 
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-left: 5%;
+}
+
+.gands-home-but {
+    text-decoration: none;
+    font-size: 15px;
+    border: solid 1px red;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    color: rgb(1, 1, 1);
+    margin-left: 2%;
+}
+
+.gands-home-but:hover {
+    background-color: red;
+    opacity: 0.6;
+}
+
+
+.gands-pic-but:hover {
+    background-color: red;
+    opacity: 0.6;
+}
+
+.bottom-moto {
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.bottom-moto-hed {
+    font-family: cursive;
+}

@@ -121,7 +121,7 @@ li {
 
 #fill-out {
     margin-top: 3%;
-    margin-left: 20%;
+    margin-left: 25%;
 
 }
 
@@ -135,4 +135,17 @@ p {}
 
 .back-white {
     background-color: white;
+}
+
+.profile-pic {
+    width: 80%;
+    height: 80%;
+}
+
+.profile-div-1 {
+    margin-left: -4%;
+}
+
+.profile-div-2 {
+    margin-left: -7%;
 }
