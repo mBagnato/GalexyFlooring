@@ -1,6 +1,6 @@
 /* SECTION PICS */
 .section-pics-fin {
-    margin-bottom: 5%;
+    margin-bottom: 0%;
 }
 
 @media (max-width:812px) {
@@ -40,11 +40,11 @@
     color: aliceblue;
     text-align: center;
     width: 109%;
-    height: 10%;
+    height: 15%;
     padding-top: 200px;
     padding-right: 50px;
     padding-left: 50px;
-    padding-bottom: 10px;
+    padding-bottom: 140px;
     margin-top: 2%;
 }
 
@@ -152,7 +152,7 @@
 .read-more:hover {
     opacity: 0.6;
     text-decoration: underline;
-    
+    background-color: brown;
     
 }
 

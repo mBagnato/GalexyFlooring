@@ -1,0 +1,31 @@
+.e-para {
+    margin-left: 12%;
+}
+
+.e-button-one {
+    margin-left: 45%;
+}
+
+.e-first-con {
+    background-color: white;
+    
+}
+
+.e-first-sec {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.e-mid-pic {
+    width: 900px;
+    height: 400px;
+    margin-left: 15%;
+    margin-top: 5%;
+    border-radius: 3%;
+
+}
+
+.e-end-q {
+    font-family: cursive;
+}
