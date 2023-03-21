@@ -71,14 +71,14 @@ li {
 
 .home-grinder {
     width: 35rem;
-    margin-left: 10%;
+    margin-left: 11%;
 }
 
-@media (max-width:630px) {
-        .home.grinder {
-            width: 20rem;
-            margin-left: 0%;
-        }    
+@media (max-width: 1066px) {
+    .home-grinder {
+        margin-left: 0%;
+        margin-right: 10%;
+    }
 }
 
 
@@ -100,24 +100,33 @@ li {
 }
 
 .home-button {
-    border: 1px solid grey;
-    margin-left: 1%;
-    border-radius: 5px;
-    padding: 5px 0;
-    width: 17%;
-    overflow: hidden;
+    border: 1px solid rgb(150, 148, 148);
+    padding: 5px;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: center;
+    margin: 1%;
+    color: rgb(22, 22, 22);
+    margin-left: 0%;
+    
 
 }
 
-#first-but {
-    margin-left: 25%;
+.but-row-pos {
+    margin-left: 10%;
+}
 
+@media (max-width: 800px) {
+    .but-row-pos {
+        width: 80%;
+        margin-top: 2%;
+    }
 }
 
 .home-button:hover {
-    background-color: brown;
-
-    text-decoration: underline;
+    background-color: rgb(229, 83, 83);
+    color: white;
+    
 }
 
 /* NEW SECTION */
@@ -129,13 +138,20 @@ li {
 /* NEW SECTION */
 
 .fourpic {
-    width: 108%;
-    margin-left: -3%;
+
+    
 }
 
 .fourpic:hover {
     opacity: 0.5;
     transition: 0.5s;
+}
+
+@media(max-width: 600px) {
+    .fourpic {
+        height: 90%;
+        margin-left: 5%;
+    }
 }
 
 
