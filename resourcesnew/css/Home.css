@@ -11,12 +11,20 @@
     opacity: 0.3;
     width: 40%;
     height: 40%;
-    margin-top: -5px;
+    margin-top: -18px;
 }
 
 .home-logo:hover {
     opacity: 1.5;
     transition: 2s;
+}
+
+@media (max-width: 660px) {
+    .home-logo {
+        height: 100%;
+        width: 80%;
+        margin-top: -8%;
+    }
 }
 
 
@@ -37,6 +45,10 @@ li {
 #navbarNavDropdown {
     padding-left: 15%;
     margin-left: -10%;
+}
+
+.nav-link:hover {
+        color: rgb(245, 74, 74);
 }
 
 /* END OF FIRST PAGE */

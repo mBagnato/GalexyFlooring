@@ -1,67 +1,136 @@
-.pic-pos {
-    margin-left: 15%;
-}
-
-#finishtext {
-    color: black;
-    font-size: 17px;
-    margin-bottom: 2%;
-    margin-left: -23%;
-}
-
-
-.hed-one-fin {
-    width: 450px;
-    height: 250px;
-    border-radius: 100%;
-}
-
-.hed-one-fin:hover {
-    opacity: 0.3;
-}
-
-
-
-
-.but-gloss {
-    text-decoration: none;
-    background-color: rgb(158, 7, 7);
-    color: white;
-    border: none;
-    border-radius: 10px;
-    margin-left: -5%;
+.gloss-finish-pic {
+    background-image: url(Img/PolishedGlossFinish/glossfinish1.jpg);
+    background-position-y: bottom;
     padding: 20px;
-    padding-top: 5%;
+    height: 25vh;
+    width: 40%;
+    border-radius: 100%;
+    margin-left: 10%;
 }
 
-.but-posi {
-    margin-top: 9%;
-}
-
-@media (max-width:1200px) {
-    .but-gloss {
-        margin-left: 30%;
+@media (max-width: 950px) {
+    .gloss-finish-pic {
+                width: 75%;
     }
-
 }
 
-@media (max-width:630px) {
-    .but-gloss {
-        margin-left: 20%;
+.gloss-finish-pic-two {
+    background-image: url(Img/PolishedSEMIGLOSS/SemiGloss1.jpg);
+    background-position-y: bottom;
+    padding: 20px;
+    height: 25vh;
+    width: 40%;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+@media (max-width: 950px) {
+    .gloss-finish-pic-two {
+                width: 75%;
     }
-
 }
 
-.but-gloss:hover {
-    opacity: 0.5;
-    text-decoration: underline;
+.gloss-finish-pic-three {
+    background-image: url(Img/PolishedSATINFINISH/SatinFinish1.jpg);
+    background-position-y: bottom;
+    padding: 20px;
+    height: 25vh;
+    width: 40%;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+@media (max-width: 950px) {
+    .gloss-finish-pic-three {
+                width: 75%;
+    }
+}
+
+.gloss-finish-pic-four {
+    background-image: url(Img/PolishedMATTEFINISH/MatteFinish1.jpg);
+    background-position-y: bottom;
+    padding: 20px;
+    height: 25vh;
+    width: 40%;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+@media (max-width: 950px) {
+    .gloss-finish-pic-four {
+                width: 75%;
+    }
+}
+
+.gloss-finish-pic-five {
+    background-image: url(Img/GRINDANDSEAL/GrindandSeal1.jpg);
+    background-position-y: bottom;
+    padding: 20px;
+    height: 25vh;
+    width: 40%;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+@media (max-width: 950px) {
+    .gloss-finish-pic-five {
+                width: 75%;
+    }
+}
+
+.gloss-finish-pic-six {
+    background-image: url(Img/EPOXYCOATING/EpoxyCoating3.jpg);
+    background-position-y: bottom;
+    padding-top: 5px;
+    height: 25vh;
+    width: 40%;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+@media (max-width: 950px) {
+    .gloss-finish-pic-six {
+                width: 75%;
+    }
+}
+
+
+/*everything else*/
+
+.link-buttons {
+    padding-top: 10px;
+    border: solid 1px rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    text-align: center;
+    height: 10vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(113, 6, 6);
+}
+
+.link-buttons:hover {
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    transition: 0.5s;
+}
+
+@media (max-width:670px) {
+   .link-buttons {
+        width: 75%;
+        
+   }
     
-
 }
 
-
-
-
+.port-section {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    padding-left: 12%;
+    padding-right: 12%;
+}
 
 .port-main-con {
     border-left: 1px solid black;
