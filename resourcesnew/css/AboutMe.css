@@ -43,16 +43,15 @@ li {
 
 .carousel-heading {
     position: absolute;
-    top: 60%;
+    top: 65%;
     left: 52%;
     transform: translate(-50%, -50%);
-    color: rgb(21, 2, 2);
+    color: rgb(13, 13, 13);
     font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 55px;
-    font-weight: 500;
+    font-weight: 100;
     width: 800px;
-    opacity: 0.8;
-
+    text-shadow: 1px 1px 0px white;
 }
 
 

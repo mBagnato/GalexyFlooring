@@ -1,0 +1,26 @@
+.gandR-firstpara {
+    padding-left: 10%;
+}
+
+.gands-section {
+    background-image: url(Img/DARKER-SECOND-BACKGROUND.jpg);
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 1%;
+}
+
+.gands-con {
+    background-color: white;
+}
+
+.old-coating-sec {
+    border-top: 1px solid red;
+    
+}
+
+.oldcoating-pic {
+    width: 82%;
+    border-radius: 20px;
+    margin-left: 9%;
+    
+}

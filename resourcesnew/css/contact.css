@@ -3,13 +3,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
-    height: 45vh;
+    height: 55vh;
     margin-top: -1%;
 }
 
 #contact-heading {
     padding-top: 8%;
     font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #contact-heading-two {

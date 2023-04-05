@@ -48,7 +48,7 @@ li {
 }
 
 .nav-link:hover {
-        color: rgb(245, 74, 74);
+        color: white
 }
 
 /* END OF FIRST PAGE */
@@ -83,7 +83,7 @@ li {
 
 .home-grinder {
     width: 35rem;
-    margin-left: 11%;
+    margin-left: 12%;
 }
 
 @media (max-width: 1066px) {
